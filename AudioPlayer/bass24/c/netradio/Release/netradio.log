@@ -1,5 +1,0 @@
-﻿  netradio.c
-d:\labs\4_course_1\патерны\bass24\c\netradio\netradio.c(170): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "QWORD"
-  d:\labs\4_course_1\патерны\bass24\c\netradio\netradio.c(170): note: рекомендуется использовать "%lld" в строке форматирования
-  d:\labs\4_course_1\патерны\bass24\c\netradio\netradio.c(170): note: рекомендуется использовать "%I64d" в строке форматирования
-  netradio.vcxproj -> D:\Labs\4_course_1\Патерны\bass24\c\netradio\..\bin\netradio.exe
